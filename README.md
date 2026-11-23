@@ -32,4 +32,5 @@ It saves `ignore_zones.json`; those spots are ignored afterwards. Delete the fil
 2. Train YOLOv8n on the data, then fine-tune on images downscaled to 240 px (this raised mAP50 from 0.786 to 0.862 on 240 px images).
 3. Best confidence for counting on the SCUT-HEAD test set was about 0.2 (count error about 2 heads out of 34 per image).
 
-Dataset: SCUT-HEAD (academic research use only).
+Dataset: SCUT-HEAD (academic research use only) https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release .
+/هىن
