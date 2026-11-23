@@ -33,4 +33,3 @@ It saves `ignore_zones.json`; those spots are ignored afterwards. Delete the fil
 3. Best confidence for counting on the SCUT-HEAD test set was about 0.2 (count error about 2 heads out of 34 per image).
 
 Dataset: SCUT-HEAD (academic research use only) https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release .
-/هىن
