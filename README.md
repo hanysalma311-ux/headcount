@@ -50,4 +50,4 @@ Count error per image on the 240 px validation set (average true count 34.4 head
 
 Notes: the validation set was also used to choose the best epoch and the confidence, so the numbers are slightly optimistic. Real-room performance (lighting, camera angle) must be checked with the live counter. Use imgsz 640, not 320.
 
-Dataset: SCUT-HEAD (academic research use only).
+Dataset: SCUT-HEAD (academic research use only) https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release .
